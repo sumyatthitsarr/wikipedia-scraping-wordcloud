@@ -10,3 +10,4 @@ The data is preprocessed with the following steps:
 
 The cleaned data is used to create a wordcloud. This result is shown here. 
 
+![alt text](https://github.com/sumyatthitsarr/wikipedia-scraping-wordcloud/blob/main/word_cloud_wiki_current_events.pngraw=true)
